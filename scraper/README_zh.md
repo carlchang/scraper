@@ -4,7 +4,7 @@
 [![downloads](https://img.shields.io/crates/d/scraper)][crate]
 [![test](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg)][tests]
 
-[English](./scraper/README.md) | 中文版
+[English](README.md) | 中文版
 
 HTML 解析与 CSS 选择器查询库。
 
