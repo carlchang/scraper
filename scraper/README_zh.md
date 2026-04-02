@@ -4,6 +4,8 @@
 [![downloads](https://img.shields.io/crates/d/scraper)][crate]
 [![test](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg)][tests]
 
+[English](./README.md) | 中文版
+
 HTML 解析与 CSS 选择器查询库。
 
 `scraper` 托管在 [crates.io][crate] 和 [GitHub][github] 上。

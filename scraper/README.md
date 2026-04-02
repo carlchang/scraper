@@ -4,6 +4,8 @@
 [![downloads](https://img.shields.io/crates/d/scraper)][crate]
 [![test](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg)][tests]
 
+[中文版](./README_zh.md) | English
+
 HTML parsing and querying with CSS selectors.
 
 `scraper` is on [crates.io][crate] and [GitHub][github].
